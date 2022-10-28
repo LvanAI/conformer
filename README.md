@@ -11,6 +11,7 @@ Within Convolutional Neural Network (CNN), the convolution operations are good a
 
 Conformer achieves strong performance on ImageNet classification (81.3 on val)
 
+![framework](/figures/conformer-teaser.png)
 
 ## Data preparation
 
